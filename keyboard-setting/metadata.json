@@ -1,0 +1,8 @@
+{
+	"type": "settings",
+	"name": "Keyboard shortcuts",
+	"description": "change your keyboard shortcuts to your preference",
+	"icon": "keyboard.svg",
+	"version": "v0.0.2"
+}
+
